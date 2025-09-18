@@ -35,10 +35,15 @@ This application provides an interface for managing student records and performi
 
 ---
 student-management-system/
+
 │── backend/ # Spring Boot backend
+
 │ └── src/main/java/...
+
 │── frontend/ # HTML, CSS, Bootstrap frontend
+
 │── README.md # Documentation
+
 ---
 
 ## Getting Started  
